@@ -1,0 +1,17 @@
+v 3
+d stringtocode: mapping open-ended responses to codes
+d Version 2.1.5 (11 November 2026)
+d Requires Stata 18 or later; author testing performed under Stata 18.
+d License: MIT
+d Author: David Nika, DZHW, nika@dzhw.eu
+d Distribution-Date: 20261111
+f stringtocode.ado
+f stringtocode.sthlp
+f stringtocode_example.do
+f stringtocode_tests.do
+f stringtocode_benchmark.do
+f README.md
+f CHANGELOG.md
+f VALIDATION.md
+f CITATION.cff
+f LICENSE

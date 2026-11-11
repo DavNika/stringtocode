@@ -1,0 +1,4 @@
+v 3
+d stringtocode: mapping open-ended responses to codes
+d David Nika, DZHW
+p stringtocode Map open-ended responses to codes

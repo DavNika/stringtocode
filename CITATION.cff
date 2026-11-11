@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+type: software
+title: "stringtocode: Stata module for mapping open-ended responses to codes"
+authors:
+  - family-names: Nika
+    given-names: David
+    affiliation: "German Centre for Higher Education Research and Science Studies (DZHW)"
+version: 2.1.5
+abstract: >-
+  Stata module for exact dictionary-based coding of open-ended survey responses,
+  with input harmonization, composite keys, multiple codes, and match diagnostics.
+keywords:
+  - Stata
+  - survey research
+  - open-ended responses
+  - dictionary coding
+  - harmonization
+license: MIT
+repository-code: "https://github.com/DavNika/stringtocode"
+url: "https://github.com/DavNika/stringtocode"
