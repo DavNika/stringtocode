@@ -27,7 +27,7 @@ help stringtocode
 Install from GitHub:
 
 ```stata
-net install stringtocode, from("https://raw.githubusercontent.com/DavNika/stringtocode/main") replace
+net install stringtocode, from("https://raw.githubusercontent.com/DavNika/stringtocode/tree/main") replace
 ```
 
 For a reproducible release, replace `main` with the published tag `v2.1.5`.
